@@ -1,0 +1,1 @@
+python joint_training_HGT.py --device=0 --gnn_type='Graphormer'  --skill_skill='../data/graph/linkedin/skill_graph/k-nn_sim/skill_graph_kNN_15.csv'  --API_API='../data/graph/github/API_graph/k-nn_sim/API_graph_kNN_15.csv'
